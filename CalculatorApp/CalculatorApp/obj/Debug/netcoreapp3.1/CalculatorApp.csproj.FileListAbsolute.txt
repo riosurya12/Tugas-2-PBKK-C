@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.exe
+C:\Users\user\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.deps.json
+C:\Users\user\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.json
+C:\Users\user\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.dev.json
+C:\Users\user\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.dll
+C:\Users\user\source\repos\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.pdb
+C:\Users\user\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.Form1.resources
+C:\Users\user\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfo.cs
+C:\Users\user\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.dll
+C:\Users\user\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.pdb
+C:\Users\user\source\repos\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.genruntimeconfig.cache
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.exe
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.deps.json
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.json
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.runtimeconfig.dev.json
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.dll
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\CalculatorApp\CalculatorApp\bin\Debug\netcoreapp3.1\CalculatorApp.pdb
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.csprojAssemblyReference.cache
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.Form1.resources
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.AssemblyInfo.cs
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.dll
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.pdb
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\CalculatorApp\CalculatorApp\obj\Debug\netcoreapp3.1\CalculatorApp.genruntimeconfig.cache
