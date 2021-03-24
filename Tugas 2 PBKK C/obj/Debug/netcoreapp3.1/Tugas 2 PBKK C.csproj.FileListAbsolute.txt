@@ -1,0 +1,13 @@
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\Tugas 2 PBKK C\bin\Debug\netcoreapp3.1\Tugas 2 PBKK C.exe
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\Tugas 2 PBKK C\bin\Debug\netcoreapp3.1\Tugas 2 PBKK C.deps.json
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\Tugas 2 PBKK C\bin\Debug\netcoreapp3.1\Tugas 2 PBKK C.runtimeconfig.json
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\Tugas 2 PBKK C\bin\Debug\netcoreapp3.1\Tugas 2 PBKK C.runtimeconfig.dev.json
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\Tugas 2 PBKK C\bin\Debug\netcoreapp3.1\Tugas 2 PBKK C.dll
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\Tugas 2 PBKK C\bin\Debug\netcoreapp3.1\Tugas 2 PBKK C.pdb
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\Tugas 2 PBKK C\obj\Debug\netcoreapp3.1\Tugas 2 PBKK C.csprojAssemblyReference.cache
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\Tugas 2 PBKK C\obj\Debug\netcoreapp3.1\Tugas 2 PBKK C.AssemblyInfoInputs.cache
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\Tugas 2 PBKK C\obj\Debug\netcoreapp3.1\Tugas 2 PBKK C.AssemblyInfo.cs
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\Tugas 2 PBKK C\obj\Debug\netcoreapp3.1\Tugas 2 PBKK C.csproj.CoreCompileInputs.cache
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\Tugas 2 PBKK C\obj\Debug\netcoreapp3.1\Tugas 2 PBKK C.dll
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\Tugas 2 PBKK C\obj\Debug\netcoreapp3.1\Tugas 2 PBKK C.pdb
+C:\Users\RIO-LAPTOP\Documents\Tugas 2 PBKK C\Tugas 2 PBKK C\obj\Debug\netcoreapp3.1\Tugas 2 PBKK C.genruntimeconfig.cache
